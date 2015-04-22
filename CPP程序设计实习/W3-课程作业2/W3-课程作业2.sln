@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "W3-课程作业2", "W3-课程作业2\W3-课程作业2.vcxproj", "{F4AE2970-11F0-4FA3-8592-148914602F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AE2970-11F0-4FA3-8592-148914602F4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4AE2970-11F0-4FA3-8592-148914602F4A}.Debug|Win32.Build.0 = Debug|Win32
+		{F4AE2970-11F0-4FA3-8592-148914602F4A}.Release|Win32.ActiveCfg = Release|Win32
+		{F4AE2970-11F0-4FA3-8592-148914602F4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
