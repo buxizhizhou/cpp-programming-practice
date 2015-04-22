@@ -1,0 +1,14 @@
+﻿Build started 2015/4/21 23:25:21.
+     1>Project "c:\Users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\W3-编程作业-魔兽世界之1-备战\W3-编程作业-魔兽世界之1-备战.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "W3-编程作业-魔兽世界之1-备战.cpp"
+         W3-编程作业-魔兽世界之1-备战.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\Debug\W3-编程作业-魔兽世界之1-备战.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\Debug\W3-编程作业-魔兽世界之1-备战.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\Debug\W3-编程作业-魔兽世界之1-备战.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\W3-编程作业-魔兽世界之1-备战.obj"
+         W3-编程作业-魔兽世界之1-备战.vcxproj -> c:\users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\Debug\W3-编程作业-魔兽世界之1-备战.exe
+     1>Done Building Project "c:\Users\hello\documents\visual studio 2013\Projects\W3-编程作业-魔兽世界之1-备战\W3-编程作业-魔兽世界之1-备战\W3-编程作业-魔兽世界之1-备战.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.13
