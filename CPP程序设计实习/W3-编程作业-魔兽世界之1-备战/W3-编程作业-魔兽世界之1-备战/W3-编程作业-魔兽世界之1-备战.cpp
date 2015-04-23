@@ -16,7 +16,6 @@ string wrname[5] = { "dragon", "ninja", "iceman", "lion", "wolf" };
 
 class HeadQ
 {
-public :
 	int lifen;//生命元
 	int wno;//武士的最大编号
 	int worrior[5];//5个武士依次的数量
@@ -38,6 +37,8 @@ public :
 		wno++;
 		worrior[k]++;
 		lifen = lifen - wlf[k];
+		cout.fill('0');//设置填充字符，一直有效
+		cout.width(3);//设域宽为3，一次有效
 		cout << time << " " << name <<" "<<wrname[k]<< " " << wno << " born with strength " << wlf[k] << ","
 			<< worrior[k] << " " << wrname[k] << " in " << name << " headquarter" << endl;
 		//额这里一直在输出name时报错，因为没有#include<string>。我直接using std::string，竟然也可以声明string
@@ -53,6 +54,8 @@ public :
 		}
 		if (flag == 0)
 		{
+			cout.fill('0');//设置填充字符，一直有效
+			cout.width(3);//设域宽为3，一次有效
 			cout << time << " " << name << " headquarter stops making warriors" << endl;
 			stop = true;
 			return true;
